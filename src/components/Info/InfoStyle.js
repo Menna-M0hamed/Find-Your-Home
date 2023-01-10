@@ -33,7 +33,7 @@ export const ColumnLeft = styled.div`
  order: ${({reverse}) => (reverse ? '2' : '1')}; //trtebha 1
 
  h1{
-     margin-bottom: 3.5rem;
+     margin-bottom: 2.5rem;
      font-size: clamp(1.5rem, 6vw, 2.5rem);
      color:#CD853F ;
  }
