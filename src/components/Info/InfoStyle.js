@@ -18,7 +18,7 @@ export const Container = styled.div`
     grid-template-columns: 1fr;
  }
 
-  @media screen and (max-width: 450px){
+  @media screen and (max-width: 768px){
      grid-template-rows: 400px;
  }
  `;
